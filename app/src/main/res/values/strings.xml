@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Relocation Moving Truck Rental</string>
+    <string name="txtTitle">Moving Truck Rental</string>
+    <string name="imgDescription">Moving Truck Fleet</string>
+    <string name="hint1">Truck Size (ft)</string>
+    <string name="hint2">Travel Distance (mi)</string>
+    <string name="btnEstimate">Cost Per Day</string>
+    <string name="imgSelectedTruck">Selected Truck Size Image</string>
+</resources>
